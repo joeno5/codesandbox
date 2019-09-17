@@ -1,4 +1,14 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
+}
+
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
 }
